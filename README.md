@@ -45,10 +45,11 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:
+## Output:![image](https://github.com/user-attachments/assets/2149d5b6-526f-4b13-8497-71b215020aad)
 
-### Name:
-### Register Number:
+
+### Name:Sanjai M
+### Register Number:24901269
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
